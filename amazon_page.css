@@ -1,0 +1,10 @@
+table, th, td {
+    border:1px solid black;
+}
+
+
+
+.side_img {
+    width: 40px;
+    height: 40px;
+}
